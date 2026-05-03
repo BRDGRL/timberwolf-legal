@@ -61,7 +61,19 @@ The App is not intended for use by anyone under the age of 16, and we do not kno
 10. Changes to this policy
 We may update this Privacy Policy from time to time. The "Last updated" date at the top will reflect the most recent revision. Continued use of the App after changes are posted constitutes acceptance of the updated policy.
 
-11. Contact us
+11. Account Deletion {#account-deletion}
+You can request deletion of your account and the associated data at any time.
+
+To request deletion: email YHerstel@timberwolfplanting.com.au from the email address linked to your account, with the subject line "Account Deletion Request".
+
+What happens when you request deletion:
+
+Your user account, profile information (name, photo, email, contact details), and account access are removed within 30 days.
+Operational records associated with your work — timesheets, planting tallies, project assignments, and signed paperwork — are retained for up to 7 years as required by Australian employment, tax, and contractual record-keeping obligations. These records are anonymised where possible.
+Crash reports and diagnostic logs are deleted on the same schedule as the source account.
+If you have any questions about what data will or will not be deleted before submitting a request, contact us using the details below.
+
+12. Contact us
 For privacy questions, requests, or complaints, contact:
 
 Timberwolf Planting Pty Ltd Email: YHerstel@timberwolfplanting.com.au ABN: 27 612 495 173
